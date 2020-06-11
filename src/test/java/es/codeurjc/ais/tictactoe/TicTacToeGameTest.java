@@ -11,10 +11,10 @@ import org.junit.jupiter.api.Test;
 
 import es.codeurjc.ais.tictactoe.TicTacToeGame.EventType;
 
-class TicTacToeGameTest {
+public class TicTacToeGameTest {
 	@DisplayName("Test de conexiones")
 	@Test
-	void testConexion() {
+	public void testConexion() {
 		
 		//Comprobamos las conexiones
 		
